@@ -1,7 +1,7 @@
 const opciones = {
     nombre: {
-        alias: 'n',
-        demand: true
+        demand: true,
+        alias: 'n'
     },
     matematicas: {
         demand: true,
